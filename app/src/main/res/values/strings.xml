@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TiktokDesc</string>
+    <string name="app_name_fancy">TikTok Desc</string>
+
+    <string name="main_labelDesc">Description</string>
+    <string name="main_btnCopy">Copy</string>
+</resources>
